@@ -78,9 +78,9 @@ Create a new file and paste the contents of the employee name population script 
 <br />
 
 <p>
-<img src="https://i.imgur.com/EQXNfOj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
- Attempt to login to Client account as one of the users. In this case, the user name chosen from the random list generated in Powershell_ISE in the previous section was mckay075.
+
 </p>
 <br />
