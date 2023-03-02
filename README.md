@@ -70,7 +70,7 @@ Create a new file and paste the contents of the employee name population script 
 <br />
 
 <p>
-<img src="https://i.imgur.com/rb4ieTw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 
